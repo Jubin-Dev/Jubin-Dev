@@ -7,5 +7,5 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @jubinwant](https://twitter.com/jubinwant) , [LinkedIn - @jubinsurya](https://www.linkedin.com/in/jubinsurya242673/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Github is like disco-Club for Geeks and nerds.
+- ⚡ Fun fact: Github is like disco-Club for Geeks and nerds
 
